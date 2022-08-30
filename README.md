@@ -13,8 +13,8 @@ it starts after "access_token=" and ends before "&expires_in"
 
 
 ## Docks
-https://dev.vk.com/method/wall.get \n
-https://dev.vk.com/method/wall.createComment
+- https://dev.vk.com/method/wall.get 
+- https://dev.vk.com/method/wall.createComment
 
 ## Settings.json
 "token" - your vk api token
