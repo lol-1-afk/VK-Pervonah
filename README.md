@@ -17,8 +17,8 @@ it starts after "access_token=" and ends before "&expires_in"
 - https://dev.vk.com/method/wall.createComment
 
 ## Settings.json
-"token" - your vk api token
-"group_id" - id if group to create first comment
-"text" - text of comment
-"offset" - offset by posts
-"delay" - delay between checking new post
+- "token" - your vk api token
+- "group_id" - id if group to create first comment
+- "text" - text of comment
+- "offset" - offset by posts
+- "delay" - delay between checking new post
